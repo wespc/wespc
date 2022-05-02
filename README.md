@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wespc
 - 👀 I’m interested in computer & rocket science.
-- 🌱 I’m a undergraduated student.
+- 🌱 I’m a undergraduat student.
 - 📫 pcid757@gmail.com is my email.
 - 🍩 wespc.github.io is my blog.
 
