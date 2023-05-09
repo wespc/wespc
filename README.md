@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @wespc
-- 👀 I’m interested in computer & rocket science.
-- 🌱 I’m a undergraduat student.
-- 📫 pcid757@gmail.com is my email.
-- 🍩 wespc.github.io is my blog.
+why?
 
 <!---
 wespc/wespc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
